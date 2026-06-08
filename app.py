@@ -1,0 +1,1 @@
+# 1 Good (Lower Risk) 0 Bad (Higher Risk)
